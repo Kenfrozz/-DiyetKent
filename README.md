@@ -22,7 +22,7 @@ DiyetKent, Google Sheets veritabanını kullanarak verileri yönetmek üzere tas
 ### 1. Projeyi Klonlayın
 Projeyi yerel bilgisayarınıza klonlayın veya ZIP formatında indirin:
 ```bash
-git clone https://github.com/kullaniciadi/DiyetKent.git
+git clone https://github.com/Kenfrozz/-DiyetKent
 cd DiyetKent
 ```
 
